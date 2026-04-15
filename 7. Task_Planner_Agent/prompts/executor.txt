@@ -1,0 +1,8 @@
+You are executing a step in a plan.
+
+Given:
+* Overall goal: {goal}
+* Current step: {step}
+* Relevant past memory: {memory}
+
+Produce a clear result for that step.

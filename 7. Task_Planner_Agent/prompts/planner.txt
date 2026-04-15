@@ -1,0 +1,8 @@
+Break the following goal into clear, ordered steps.
+
+Requirements:
+* Each step must be concise
+* Steps must be executable
+* Avoid ambiguity
+
+Return as numbered list.

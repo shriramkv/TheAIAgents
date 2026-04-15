@@ -1,0 +1,7 @@
+Given all step results from executing a goal, produce a final structured answer summarizing what was accomplished.
+
+Overall Goal: {goal}
+Results:
+{results}
+
+Provide the final structured answer.
