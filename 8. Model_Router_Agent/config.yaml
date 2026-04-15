@@ -1,0 +1,20 @@
+# Model routing configuration
+
+primary_model: gpt-4o-mini
+fallback_model: gpt-4o-mini
+
+# Simple queries
+temperature_simple: 0.2
+max_tokens_simple: 200
+
+# Medium queries
+temperature_medium: 0.3
+max_tokens_medium: 500
+
+# Complex queries
+temperature_complex: 0.5
+max_tokens_complex: 800
+
+# Fallback Settings
+max_retries: 3
+timeout_seconds: 10
