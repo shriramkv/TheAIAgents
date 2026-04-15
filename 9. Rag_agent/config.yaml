@@ -1,5 +1,0 @@
-model: gpt-4o-mini
-embedding_model: text-embedding-3-small
-
-chunk_size: 400
-top_k: 3
