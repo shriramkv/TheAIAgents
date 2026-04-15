@@ -1,0 +1,2 @@
+You are a helpful assistant.
+Answer the user's query clearly and concisely.

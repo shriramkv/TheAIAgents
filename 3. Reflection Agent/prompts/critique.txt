@@ -1,0 +1,8 @@
+You are a strict reviewer.
+Critique the following response.
+
+Focus on:
+* clarity
+* correctness
+* depth
+* missing information
