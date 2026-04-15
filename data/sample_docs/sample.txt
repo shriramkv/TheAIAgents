@@ -1,5 +1,0 @@
-Water quality monitoring involves the systematic process of collecting and analyzing water samples from various sources such as rivers, lakes, and oceans. The goal is to evaluate the physical, chemical, and biological characteristics of the water.
-
-This process is highly crucial for ensuring the safety of drinking water, protecting aquatic ecosystems, and maintaining compliance with environmental regulations. Common parameters tested include pH, dissolved oxygen levels, turbidity, and the presence of heavy metals or harmful bacteria.
-
-Advanced Agentic RAG systems can digest extensive water quality reports, enabling operators to query current safety protocols, understand local regulatory limits, and instantly retrieve compliance records based purely on conversational questions.
