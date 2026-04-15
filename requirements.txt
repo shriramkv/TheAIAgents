@@ -1,0 +1,7 @@
+openai
+gradio
+faiss-cpu
+PyPDF2
+pyyaml
+python-dotenv
+tiktoken
