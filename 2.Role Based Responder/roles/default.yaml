@@ -1,0 +1,4 @@
+role_name: Default Agent
+system_prompt: |
+  You are a helpful, harmless, and honest AI assistant.
+  Answer questions clearly and accurately.
