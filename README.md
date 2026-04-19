@@ -1,8 +1,8 @@
-# 🤖 The AI Agents — 24 Hands-On Projects
+# 🤖 The AI Agents -  24 Hands-On Projects
 
 > **Work through them in order. Each one builds intuition that the next one depends on.**
 
-A structured, progressive collection of **24 fully working AI agent projects** — from a basic ReAct loop to production-grade multi-agent systems with governance, audit trails, and human oversight.
+A structured, progressive collection of **24 fully working AI agent projects** -  from a basic ReAct loop to production-grade multi-agent systems with governance, audit trails, and human oversight.
 
 Built from scratch. No fluff. Every project is self-contained, runnable, and teaches one thing well.
 
@@ -12,7 +12,7 @@ Built from scratch. No fluff. Every project is self-contained, runnable, and tea
 
 This repository was built over weekends as part of a personal learning journey and as the hands-on companion to the book **"Agentic AI: Design, Build, Deploy"**.
 
-Most people read about agents. Few actually build them. This repo is designed to close that gap — project by project.
+Most people read about agents. Few actually build them. This repo is designed to close that gap -  project by project.
 
 ---
 
@@ -33,13 +33,13 @@ Most people read about agents. Few actually build them. This repo is designed to
 
 | # | Project | What You Learn |
 |---|---------|----------------|
-| 1 | **Hello Agent** | The ReAct loop — reason, act, observe, respond |
+| 1 | **Hello Agent** | The ReAct loop -  reason, act, observe, respond |
 | 2 | **Role-Based Responder** | How system prompt shapes agent persona and output |
 | 3 | **Reflection Agent** | Generate → Critique → Improve for better outputs |
 | 4 | **Tool-Calling Agent** | Connecting agents to real-world APIs and live data |
 | 5 | **ReAct Loop Tracer** | Logging every step for transparency and debugging |
 
-**Section Goal:** By the end of Project 5, you should be able to build, run, and debug a basic agent loop from scratch — and understand exactly what happens at each reasoning step.
+**Section Goal:** By the end of Project 5, you should be able to build, run, and debug a basic agent loop from scratch -  and understand exactly what happens at each reasoning step.
 
 ---
 
@@ -55,7 +55,7 @@ Most people read about agents. Few actually build them. This repo is designed to
 | 9 | **RAG Research Agent** | Retrieval-augmented generation to eliminate hallucination |
 | 10 | **Planner–Executor–Verifier** | 3-agent pipeline for reliable complex reasoning |
 
-**Section Goal:** Agents that remember, plan, and route intelligently — the three capabilities that separate toy agents from useful ones.
+**Section Goal:** Agents that remember, plan, and route intelligently -  the three capabilities that separate toy agents from useful ones.
 
 ---
 
@@ -72,7 +72,7 @@ Most people read about agents. Few actually build them. This repo is designed to
 | 15 | **Financial Analyst Agent** | Data + news + analytics for investment reporting |
 | 16 | **News Generator Agent** | Multi-source ingestion, ranking, and rewriting |
 
-**Section Goal:** See how agents apply to real domains — research, finance, travel, and media — and learn to adapt the patterns to your own use case.
+**Section Goal:** See how agents apply to real domains -  research, finance, travel, and media -  and learn to adapt the patterns to your own use case.
 
 ---
 
@@ -97,17 +97,17 @@ Most people read about agents. Few actually build them. This repo is designed to
 
 ## 🚀 How to Use This Repo
 
-**If you are a beginner** — start at Project 1 and work forward. Do not skip the foundations.
+**If you are a beginner** -  start at Project 1 and work forward. Do not skip the foundations.
 
-**If you have agent experience** — jump to the section most relevant to your current challenge. Each project is self-contained.
+**If you have agent experience** -  jump to the section most relevant to your current challenge. Each project is self-contained.
 
 **For every project, follow this pattern:**
 
-1. 📄 **Read the problem statement** — understand *why* this agent exists
-2. 🏗️ **Study the architecture** — understand *how* it is structured
-3. 🔁 **Trace the workflow** — understand *what* happens step by step
-4. ▶️ **Run it** — see the sample input produce the sample output
-5. 🔧 **Modify one thing** — change a tool, a prompt, or a workflow step and observe the effect
+1. 📄 **Read the problem statement** -  understand *why* this agent exists
+2. 🏗️ **Study the architecture** -  understand *how* it is structured
+3. 🔁 **Trace the workflow** -  understand *what* happens step by step
+4. ▶️ **Run it** -  see the sample input produce the sample output
+5. 🔧 **Modify one thing** -  change a tool, a prompt, or a workflow step and observe the effect
 
 ---
 
@@ -129,11 +129,11 @@ export OPENAI_API_KEY=your_key_here
 ## 📬 Connect
 
 Built by **Dr. Shriram Vasudevan, Dr. Sini Raj Pulari, Giridharajan R and Dr. Vimal**
-📘 Author — *Agentic AI: Design, Build, Deploy*
+📘 Author -  *Agentic AI: Design, Build, Deploy*
 🔗 [YouTube](https://www.youtube.com/shriramvasudevan) | [GitHub](https://github.com/shriramkv)
 
 ---
 
 > *"Build five of these and you will stand out in any room you walk into. Not because you memorised the theory. Because you have done the work."*
 
-⭐ If this helped you, give the repo a star — it helps others find it too!
+⭐ If this helped you, give the repo a star -  it helps others find it too!
