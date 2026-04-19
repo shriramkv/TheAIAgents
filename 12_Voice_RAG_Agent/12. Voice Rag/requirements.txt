@@ -1,0 +1,8 @@
+openai
+gradio
+gTTS
+faiss-cpu
+python-dotenv
+pyyaml
+pydantic
+numpy
