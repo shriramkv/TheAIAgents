@@ -1,0 +1,6 @@
+openai>=1.0.0
+gradio>=3.0
+python-dotenv
+tqdm
+pydantic
+pypdf
