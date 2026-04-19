@@ -1,0 +1,7 @@
+model: "gpt-4o-mini"
+temperature: 0.3
+
+num_search_results: 5
+max_pages_to_scrape: 3
+timeout_seconds: 10
+max_retries: 3

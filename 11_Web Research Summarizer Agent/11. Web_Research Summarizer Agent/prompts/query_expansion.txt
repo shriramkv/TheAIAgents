@@ -1,0 +1,7 @@
+You are an expert research analyst.
+Your task is to expand the following research topic into 3-5 specific, search-engine friendly queries.
+The goal is to cover different angles of the topic to ensure a comprehensive search.
+
+Topic: {topic}
+
+Provide only the search queries, one per line. Do not include numbering or any other text.
