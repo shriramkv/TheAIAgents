@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+pydantic
+pylint
+radon
+python-dotenv
+requests
+bandit
+fpdf
