@@ -1,0 +1,22 @@
+Generate a structured Brand Monitoring Report based on the following analysis data.
+
+Brand Name: {brand_name}
+Total Posts Analyzed: {total_posts}
+Sentiment Breakdown:
+- Positive: {positive_count}
+- Neutral: {neutral_count}
+- Negative: {negative_count}
+
+Anomaly Detection Result:
+{anomaly_explanation}
+
+Sample Posts:
+{sample_posts}
+
+Sections:
+1. Summary: Overview of current brand sentiment.
+2. Sentiment Breakdown: Brief interpretation of the numbers.
+3. Key Issues: Identify recurring negative themes if any.
+4. Recommendations: Actionable steps for the brand team.
+
+Keep the report professional, concise, and structured.

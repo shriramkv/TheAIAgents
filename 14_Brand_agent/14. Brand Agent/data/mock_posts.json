@@ -1,0 +1,51 @@
+[
+    {
+        "id": "1",
+        "platform": "twitter",
+        "user": "tech_guru",
+        "text": "The new @Tesla Model 3 is absolutely incredible! The driving experience is so smooth. https://tesla.com/m3 #tesla #ev",
+        "timestamp": "2026-04-18T10:00:00Z"
+    },
+    {
+        "id": "2",
+        "platform": "twitter",
+        "user": "angry_customer",
+        "text": "Wait times for @Tesla service are getting ridiculous. 3 weeks for a tire rotation? Unacceptable! #teslahelp #badservice",
+        "timestamp": "2026-04-18T10:05:00Z"
+    },
+    {
+        "id": "3",
+        "platform": "reddit",
+        "user": "u/eco_warrior",
+        "text": "Tesla's contribution to sustainable energy is undeniable, but their build quality still has issues.",
+        "timestamp": "2026-04-18T10:10:00Z"
+    },
+    {
+        "id": "4",
+        "platform": "reddit",
+        "user": "u/investor_joe",
+        "text": "Thinking of buying TSLA stock. The brand is strong despite the noise.",
+        "timestamp": "2026-04-18T10:15:00Z"
+    },
+    {
+        "id": "5",
+        "platform": "twitter",
+        "user": "car_fanatic",
+        "text": "Is it just me or does the Cybertruck look like a low-poly video game asset? Still cool though.",
+        "timestamp": "2026-04-18T10:20:00Z"
+    },
+    {
+        "id": "6",
+        "platform": "twitter",
+        "user": "road_rage",
+        "text": "Autopilot almost crashed my car today. Never using it again. @Tesla needs to fix this ASAP!",
+        "timestamp": "2026-04-18T10:25:00Z"
+    },
+    {
+        "id": "7",
+        "platform": "reddit",
+        "user": "u/fanboy123",
+        "text": "Best car I've ever owned. PERIOD. #TeslaLife",
+        "timestamp": "2026-04-18T10:30:00Z"
+    }
+]

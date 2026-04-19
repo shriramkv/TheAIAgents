@@ -1,0 +1,7 @@
+model: "gpt-4o-mini"
+temperature: 0.3
+max_posts: 20
+
+# Anomaly detection thresholds
+anomaly_threshold: 0.5  # If negative sentiment is > 50% of total
+min_posts_for_analysis: 5

@@ -1,0 +1,6 @@
+openai
+python-dotenv
+pyyaml
+gradio
+requests
+python-json-logger

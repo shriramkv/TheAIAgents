@@ -1,0 +1,9 @@
+Classify the sentiment of the following post.
+- Positive
+- Neutral
+- Negative
+
+Post:
+"{text}"
+
+Return exactly one of the labels above. Nothing else.
