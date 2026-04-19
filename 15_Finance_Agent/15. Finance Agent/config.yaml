@@ -1,0 +1,12 @@
+# Financial Analyst Agent Configuration
+
+# LLM Settings
+model: "gpt-4o-mini"
+temperature: 0.3
+
+# Data Settings
+max_news_articles: 5
+
+# UI Settings
+app_title: "📊 Financial Analyst Agent"
+theme: "soft"

@@ -1,0 +1,21 @@
+Generate a structured investment memo for the company: {ticker}
+
+### INPUT DATA
+- Financial Fundamentals: {fundamentals}
+- Key Ratios: {ratios}
+- Recent News: {news}
+
+### SECTIONS TO INCLUDE
+1. **Company Overview**: A brief summary of the company based on general knowledge.
+2. **Financial Analysis**: Analyze the provided fundamentals (Revenue, Net Income, Debt, Equity).
+3. **Key Ratios**: Interpret the P/E Ratio, Debt-to-Equity, and Profit Margin.
+4. **News Impact**: Discuss how recent news might affect stock performance. Include citations using [Source Title](URL).
+5. **Risks**: Identify potential risks based on financials or news.
+6. **Recommendation**: Provide a clear "Buy", "Hold", or "Sell" rating with a 1-sentence justification.
+
+### TONE
+- Professional, objective, and analytical.
+- Use bullet points for readability.
+
+---
+Your Investment Memo:
