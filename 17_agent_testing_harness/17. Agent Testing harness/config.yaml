@@ -1,0 +1,15 @@
+loop_detection:
+  max_steps: 10
+  loop_threshold: 3
+
+cost_tracking:
+  cost_per_token: 0.00002
+
+failure_simulation:
+  failure_rate: 0.05
+  timeout_chance: 0.02
+  latency_range: [0.1, 1.0]
+  tools:
+    calculator:
+      failure_rate: 0.1
+      latency: 0.5

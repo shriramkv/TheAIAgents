@@ -1,0 +1,15 @@
+- name: "Basic Math Test"
+  input: "what is 25 * 4?"
+  expected_output: "100"
+
+- name: "Capital City Search"
+  input: "what is the capital of France?"
+  expected_output: "Paris"
+
+- name: "Weather Check"
+  input: "what is the weather in London?"
+  expected_output: "Rainy"
+
+- name: "Invalid Tool Input"
+  input: "calculate the square root of banana"
+  expected_output: "error"

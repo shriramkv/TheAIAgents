@@ -1,0 +1,91 @@
+{
+    "timestamp": "2026-04-18T20:18:58.412328",
+    "total_tests": 4,
+    "passed": 2,
+    "failed": 2,
+    "errors": 0,
+    "total_duration_sec": 1.85,
+    "results": [
+        {
+            "test_name": "Basic Math Test",
+            "status": "PASS",
+            "input": "what is 25 * 4?",
+            "actual_output": "The result is 100.",
+            "expected_output": "100",
+            "failure_reason": "",
+            "steps": [
+                {
+                    "action": "calculator",
+                    "input": "25 * 4",
+                    "output": "100",
+                    "metadata": {}
+                }
+            ],
+            "cost_stats": {
+                "tokens_used": 200,
+                "cost": 0.004
+            },
+            "loop_detected": false,
+            "duration_sec": 0.51
+        },
+        {
+            "test_name": "Capital City Search",
+            "status": "PASS",
+            "input": "what is the capital of France?",
+            "actual_output": "The capital is Paris.",
+            "expected_output": "Paris",
+            "failure_reason": "",
+            "steps": [
+                {
+                    "action": "web_search",
+                    "input": "capital of france?",
+                    "output": "Paris",
+                    "metadata": {}
+                }
+            ],
+            "cost_stats": {
+                "tokens_used": 200,
+                "cost": 0.004
+            },
+            "loop_detected": false,
+            "duration_sec": 0.98
+        },
+        {
+            "test_name": "Weather Check",
+            "status": "FAIL",
+            "input": "what is the weather in London?",
+            "actual_output": "Current weather: The weather in London is sunny and 25\u00b0C..",
+            "expected_output": "Rainy",
+            "failure_reason": "Expected 'Rainy' not found in output.",
+            "steps": [
+                {
+                    "action": "get_weather",
+                    "input": "London",
+                    "output": "The weather in London is sunny and 25\u00b0C.",
+                    "metadata": {}
+                }
+            ],
+            "cost_stats": {
+                "tokens_used": 200,
+                "cost": 0.004
+            },
+            "loop_detected": false,
+            "duration_sec": 0.37
+        },
+        {
+            "test_name": "Invalid Tool Input",
+            "status": "FAIL",
+            "input": "calculate the square root of banana",
+            "actual_output": "I don't know the answer.",
+            "expected_output": "error",
+            "failure_reason": "Expected 'error' not found in output.",
+            "steps": [],
+            "cost_stats": {
+                "tokens_used": 150,
+                "cost": 0.003
+            },
+            "loop_detected": false,
+            "duration_sec": 0.0
+        }
+    ]
+}
