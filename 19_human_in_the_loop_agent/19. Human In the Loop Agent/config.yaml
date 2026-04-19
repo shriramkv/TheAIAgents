@@ -1,0 +1,17 @@
+model: "gpt-4o-mini"
+temperature: 0.3
+approval_timeout: 60  # seconds
+
+risk_threshold: "high"
+high_risk_keywords:
+  - delete
+  - drop
+  - send email
+  - transaction
+  - payment
+  - buy
+  - sell
+  - purchase
+  - remove
+  - clear
+  - wipe
