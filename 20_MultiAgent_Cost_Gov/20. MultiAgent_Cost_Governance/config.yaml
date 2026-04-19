@@ -1,0 +1,20 @@
+# LLM Models Configuration
+models:
+  primary:
+    name: "gpt-4o"
+    input_cost_per_1m: 5.00
+    output_cost_per_1m: 15.00
+  lightweight:
+    name: "gpt-4o-mini"
+    input_cost_per_1m: 0.15
+    output_cost_per_1m: 0.60
+
+# Default Budget Settings
+budget:
+  default_limit_usd: 1.00
+  warning_threshold_pct: 0.50
+  critical_threshold_pct: 0.80
+
+# Router Thresholds
+router:
+  switch_to_lightweight_pct: 0.70 # Switch when 70% of budget is spent (or 30% remaining)
