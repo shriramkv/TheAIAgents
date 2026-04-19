@@ -1,0 +1,3 @@
+model: "gpt-4o-mini"
+log_file: "logs/audit_log.json"
+temp_dir: "logs/temp"

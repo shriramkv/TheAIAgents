@@ -1,0 +1,8 @@
+openai
+pydantic
+pyyaml
+python-dotenv
+gradio
+fastapi
+uvicorn
+pandas

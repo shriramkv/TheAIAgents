@@ -1,0 +1,116 @@
+[
+    {
+        "trace_id": "d3c87aec-5709-4bf1-80f0-e9e01b3673c1",
+        "timestamp": "2026-04-18T21:04:36.935006",
+        "agent_name": "AuditTrailAgent",
+        "step_type": "thought",
+        "content": "Analyzing user query: 'What is 25 * 4?'. I need to determine if a tool is needed or if I can answer directly.",
+        "tool": null,
+        "decision": null,
+        "metadata": {}
+    },
+    {
+        "trace_id": "d3c87aec-5709-4bf1-80f0-e9e01b3673c1",
+        "timestamp": "2026-04-18T21:04:38.903424",
+        "agent_name": "AuditTrailAgent",
+        "step_type": "action",
+        "content": "Received LLM response for decision making.",
+        "tool": null,
+        "decision": null,
+        "metadata": {
+            "llm_response": "TOOL: calculator, ARGS: 25 * 4",
+            "tokens_used": 69
+        }
+    },
+    {
+        "trace_id": "d3c87aec-5709-4bf1-80f0-e9e01b3673c1",
+        "timestamp": "2026-04-18T21:04:38.903868",
+        "agent_name": "AuditTrailAgent",
+        "step_type": "action",
+        "content": "Executing tool: calculator",
+        "tool": "calculator",
+        "decision": "call_tool",
+        "metadata": {
+            "args": "25 * 4"
+        }
+    },
+    {
+        "trace_id": "d3c87aec-5709-4bf1-80f0-e9e01b3673c1",
+        "timestamp": "2026-04-18T21:04:38.904118",
+        "agent_name": "AuditTrailAgent",
+        "step_type": "observation",
+        "content": "Tool result: 100",
+        "tool": "calculator",
+        "decision": null,
+        "metadata": {}
+    },
+    {
+        "trace_id": "d3c87aec-5709-4bf1-80f0-e9e01b3673c1",
+        "timestamp": "2026-04-18T21:04:40.828069",
+        "agent_name": "AuditTrailAgent",
+        "step_type": "decision",
+        "content": "Generating final answer: The result of 25 * 4 is 100.",
+        "tool": null,
+        "decision": "final_response",
+        "metadata": {
+            "tokens_used": 45
+        }
+    },
+    {
+        "trace_id": "99c763cc-98ee-4428-9e93-92e0220e17b0",
+        "timestamp": "2026-04-18T21:07:13.323352",
+        "agent_name": "AuditTrailAgent",
+        "step_type": "thought",
+        "content": "Analyzing user query: 'what is 125 * 8'. I need to determine if a tool is needed or if I can answer directly.",
+        "tool": null,
+        "decision": null,
+        "metadata": {}
+    },
+    {
+        "trace_id": "99c763cc-98ee-4428-9e93-92e0220e17b0",
+        "timestamp": "2026-04-18T21:07:16.111546",
+        "agent_name": "AuditTrailAgent",
+        "step_type": "action",
+        "content": "Received LLM response for decision making.",
+        "tool": null,
+        "decision": null,
+        "metadata": {
+            "llm_response": "TOOL: calculator, ARGS: 125 * 8",
+            "tokens_used": 69
+        }
+    },
+    {
+        "trace_id": "99c763cc-98ee-4428-9e93-92e0220e17b0",
+        "timestamp": "2026-04-18T21:07:16.112619",
+        "agent_name": "AuditTrailAgent",
+        "step_type": "action",
+        "content": "Executing tool: calculator",
+        "tool": "calculator",
+        "decision": "call_tool",
+        "metadata": {
+            "args": "125 * 8"
+        }
+    },
+    {
+        "trace_id": "99c763cc-98ee-4428-9e93-92e0220e17b0",
+        "timestamp": "2026-04-18T21:07:16.113207",
+        "agent_name": "AuditTrailAgent",
+        "step_type": "observation",
+        "content": "Tool result: 1000",
+        "tool": "calculator",
+        "decision": null,
+        "metadata": {}
+    },
+    {
+        "trace_id": "99c763cc-98ee-4428-9e93-92e0220e17b0",
+        "timestamp": "2026-04-18T21:07:17.004174",
+        "agent_name": "AuditTrailAgent",
+        "step_type": "decision",
+        "content": "Generating final answer: The result of 125 * 8 is 1000.",
+        "tool": null,
+        "decision": "final_response",
+        "metadata": {
+            "tokens_used": 46
+        }
+    }
+]
