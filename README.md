@@ -128,7 +128,7 @@ export OPENAI_API_KEY=your_key_here
 
 ## 📬 Connect
 
-Built by **Dr. Shriram Vasudevan**
+Built by **Dr. Shriram Vasudevan, Dr. Sini Raj Pulari, Giridharajan R and Dr. Vimal**
 📘 Author — *Agentic AI: Design, Build, Deploy*
 🔗 [YouTube](https://www.youtube.com/shriramvasudevan) | [GitHub](https://github.com/shriramkv)
 
