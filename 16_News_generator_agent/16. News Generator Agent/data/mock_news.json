@@ -1,0 +1,51 @@
+[
+    {
+        "title": "NVIDIA Shares Surge on AI Chip Demand",
+        "content": "NVIDIA shares rose 5% today as demand for AI infrastructure continues to outpace supply. Analysts suggest that the Blackwell architecture is seeing record pre-orders from major cloud providers.",
+        "source": "TechCrunch",
+        "url": "https://example.com/nvidia",
+        "category": "Tech"
+    },
+    {
+        "title": "OpenAI Releases GPT-5 Preliminary Benchmarks",
+        "content": "OpenAI has shared early benchmarks for its next-generation model. The results show significant improvements in complex reasoning and multi-modal understanding, outperforming existing models by 30%.",
+        "source": "Ars Technica",
+        "url": "https://example.com/openai",
+        "category": "Tech"
+    },
+    {
+        "title": "Federal Reserve Holds Interest Rates Steady",
+        "content": "The Federal Reserve decided to keep interest rates unchanged at its latest meeting, citing a cooling but still resilient economy. Chairman Jerome Powell indicated that rate cuts might be considered later this year.",
+        "source": "Bloomberg",
+        "url": "https://example.com/fed",
+        "category": "Finance"
+    },
+    {
+        "title": "Bitcoin Hits New All-Time High Over $100k",
+        "content": "Bitcoin has officially crossed the $100,000 threshold for the first time in history. The surge is attributed to increased institutional adoption and the approval of new crypto-based ETFs.",
+        "source": "CNBC",
+        "url": "https://example.com/crypto",
+        "category": "Finance"
+    },
+    {
+        "title": "Global Climate Summit Reaches Landmark Agreement",
+        "content": "Over 190 countries have signed a new treaty to accelerate the transition to renewable energy. The agreement includes specific targets for reducing methane emissions by 2030.",
+        "source": "BBC News",
+        "url": "https://example.com/climate",
+        "category": "World"
+    },
+    {
+        "title": "New Mars Rover Successfully Lands at Jezero Crater",
+        "content": "NASA's latest mission to the red planet has successfully touched down. The rover will begin searching for signs of ancient life and collecting rock samples for return to Earth.",
+        "source": "Space.com",
+        "url": "https://example.com/mars",
+        "category": "World"
+    },
+    {
+        "title": "NVIDIA Stocks Jump After Earnings Report",
+        "content": "NVIDIA stock saw a massive gain today following an earnings report that beat expectations. The company's focus on AI chips is paying off as big tech companies invest heavily.",
+        "source": "Wall Street Journal",
+        "url": "https://example.com/nvidia-duplicate",
+        "category": "Tech"
+    }
+]

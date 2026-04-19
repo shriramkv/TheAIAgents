@@ -1,0 +1,16 @@
+Generate a newsletter based on the following summaries.
+
+Sections to include:
+* Headlines
+* Top Stories
+* Brief Summaries
+* Closing
+
+Constraints:
+* Tone: {tone}
+* Length: {length}
+
+Summaries data:
+{summaries}
+
+Newsletter:

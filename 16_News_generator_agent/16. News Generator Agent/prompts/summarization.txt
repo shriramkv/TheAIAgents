@@ -1,0 +1,10 @@
+Summarize the following news article into key bullet points.
+
+Focus on:
+* Key facts
+* Main takeaway
+
+Article:
+{article_content}
+
+Summary:

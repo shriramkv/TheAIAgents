@@ -1,0 +1,4 @@
+model: "gpt-4o-mini"
+temperature: 0.4
+max_articles: 10
+deduplication_threshold: 0.8
